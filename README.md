@@ -1,8 +1,7 @@
 # Welcome to my project
 
-## Project info
 
-**URL**: https://lovable.dev/projects/67a7b66a-b9c2-439d-a179-46a60fcdf5ce
+
 
 ## How can I edit this code?
 
@@ -59,9 +58,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/67a7b66a-b9c2-439d-a179-46a60fcdf5ce) and click on Share -> Publish.
 
 
 Yes, you can!
