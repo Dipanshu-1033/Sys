@@ -1,6 +1,6 @@
 # Welcome to my project
 
-Link to the Project: https://lovable.dev/projects/69c5257f-1154-4900-b749-710627001bf9
+Link to the Project: https://patient-life-app.lovable.app
 
 
 
